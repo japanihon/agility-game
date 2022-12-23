@@ -1,2 +1,2 @@
-# agility-game
-Mouse Agility Game
+# Agility Game
+## Mouse Agility Game
